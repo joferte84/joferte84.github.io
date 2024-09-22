@@ -7,7 +7,7 @@ title: Inicio
 
 # ¡Hola! Soy Jorge Fernández Tejedor
 
-![Foto de Jorge Fernández](/assets/images/jorge_fernandez.jpg)
+![Foto de Jorge Fernández](https://joferte84.github.io/assets/images/jorge_fernandez.jpg)
 
 ## Analista y Científico de Datos
 
