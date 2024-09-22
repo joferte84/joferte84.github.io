@@ -9,6 +9,9 @@ title: Inicio
 
 ![Foto de Jorge Fernández](/assets/images/jorge_fernandez.jpg)
 
+![Foto de prueba](/assets/images/test.png)
+
+
 ## Analista y Científico de Datos
 
 </div>
