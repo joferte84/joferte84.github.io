@@ -15,8 +15,7 @@ title: Inicio
 
 ---
 
-[Inicio]({{ site.baseurl }}/index.html) | [Proyectos]({{ site.baseurl }}/projects.html) | [Contacto](#contacto)
-
+[Inicio](/index.html) | [Proyectos](/projects.html) | [Contacto](#contacto)
 ---
 
 ### Habilidades y Tecnologías
