@@ -3,4 +3,4 @@ description: "Portafolio y CV de Jorge Fernández, científico de datos y analis
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
-baseurl: "/joferte84.github.io"
+baseurl: ""
