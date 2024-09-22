@@ -1,6 +1,6 @@
 title: "Jorge Fernández Tejedor - Científico de Datos"
 description: "Portafolio y CV de Jorge Fernández, científico de datos y analista."
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
 baseurl: "/joferte84.github.io"
