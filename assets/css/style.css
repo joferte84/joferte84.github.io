@@ -4,15 +4,16 @@
     margin: 0 auto; /* Centra el contenedor horizontalmente */
     padding: 20px; /* Añade espacio alrededor del contenido */
     background-color: #e1e7ec; /* Fondo Mystic para enmarcar */
-    border: 1px solid #8ea5bd; /* Borde Nepal para darle un ligero contraste */
+    border: 1px solid #8ea5bd; /* Borde Nepal */
     border-radius: 8px; /* Bordes redondeados */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    color: #323642; /* Color de texto Tuna para contraste */
 }
 
 body {
-    font-family: Arial, sans-serif; /* Cambia la fuente si lo deseas */
+    font-family: Arial, sans-serif;
     background-color: #323642; /* Fondo principal Tuna */
-    color: #e1e7ec; /* Color del texto Mystic */
+    color: #e1e7ec; /* Color del texto general fuera del contenedor */
 }
 
 h1, h2, h3 {
@@ -20,16 +21,16 @@ h1, h2, h3 {
 }
 
 a {
-    color: #879bb2; /* Enlaces con el color Bali Hai */
+    color: #879bb2; /* Enlaces con Bali Hai */
     text-decoration: none;
 }
 
 a:hover {
-    color: #8ea5bd; /* Enlaces al pasar el cursor, cambiando a Nepal */
+    color: #8ea5bd; /* Enlaces al pasar el cursor, Nepal */
 }
 
 nav {
-    background-color: #323642; /* Fondo del menú con Tuna */
+    background-color: #323642; /* Fondo del menú Tuna */
     padding: 10px;
     text-align: center;
 }
@@ -52,7 +53,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #8ea5bd; /* Al pasar el cursor, fondo Nepal */
+    background-color: #8ea5bd; /* Fondo Nepal al pasar el cursor */
 }
 
 footer {
