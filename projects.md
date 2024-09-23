@@ -14,7 +14,10 @@ title: Proyectos
 
 ---
 
-[Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html)
+<div style="text-align: center;">
+  [Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html#contacto)
+</div>
+
 
 ---
 
