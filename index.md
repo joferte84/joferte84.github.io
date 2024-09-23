@@ -18,11 +18,11 @@ title: Inicio
   <a href="{{ '/contact.html' | relative_url }}" class="button">Contacto</a>
 </div> -->
 
-### Sobre mí
+# Sobre mí
 
 Soy Jorge, un profesional en Data Science con experiencia en la identificación de patrones complejos y la transformación de datos en insights accionables. Mi habilidad técnica se complementa con una comunicación efectiva, lo que me permite ser un puente entre equipos técnicos y de negocio. Estoy especializado en análisis estadístico, machine learning y modelos predictivos, buscando siempre soluciones innovadoras que aporten valor estratégico.
 
-### Habilidades y Tecnologías
+# Habilidades y Tecnologías
 
 - **Lenguajes de programación**: Python, R, SQL, NoSQL
 - **Herramientas de análisis de datos**: Visual Studio Code, RStudio, Power BI, MongoDB, MySQL Workbench

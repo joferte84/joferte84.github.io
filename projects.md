@@ -9,6 +9,7 @@ title: Proyectos
 
 <div align="center">
   <h1>Proyectos de Jorge Fernández</h1>
+    <img src="{{ '/assets/images/jorge_fernandez.jpg' | relative_url }}" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
 
 <!-- <div class="button-container">
@@ -17,7 +18,7 @@ title: Proyectos
   <a href="{{ site.baseurl }}/contact.html" class="button">Contacto</a>
 </div> -->
 
-### Proyectos
+# Proyectos
 
 - **[Demo_decide](https://github.com/joferte84/Demo_decide)**  
   Aplicación web que extrae automáticamente datos clave de facturas eléctricas PDF usando OpenAI, optimizando el análisis de grandes volúmenes de información.
