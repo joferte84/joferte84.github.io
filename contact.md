@@ -11,7 +11,7 @@ title: Contacto
 <div class="container">
   <h2>Envíame un mensaje</h2>
   
-  <form action="https://formspree.io/f/{your-form-id}" method="POST">
+  <form action="https://formspree.io/f/xvgpjdwv" method="POST">
     <label for="name">Nombre:</label><br>
     <input type="text" id="name" name="name" required><br><br>
     
@@ -24,12 +24,6 @@ title: Contacto
     <button type="submit">Enviar</button>
   </form>
 </div>
-
-# Otros medios de contacto
-
-- [LinkedIn](https://www.linkedin.com/in/joferte)
-- [GitHub](https://github.com/joferte84)
-- Correo electrónico: [jorge_fernandez_84@yahoo.es](mailto:jorge_fernandez_84@yahoo.es)
 
 ---
 

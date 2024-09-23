@@ -1,105 +1,60 @@
-/* Estilo para centrar el contenido y darle espacio */
+/* Ajuste de imagen y contenedor */
 .container {
-    max-width: 800px;
-    margin: 0 auto; /* Centra el contenedor horizontalmente */
-    padding: 20px; /* Añade espacio alrededor del contenido */
-    background-color: #e1e7ec; /* Fondo Mystic para enmarcar */
-    border: 1px solid #8ea5bd; /* Borde Nepal */
-    border-radius: 8px; /* Bordes redondeados */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
-    color: #323642; /* Color de texto Tuna para contraste */
-}
-
-body {
-    font-family: Arial, sans-serif;
-    background-color: #323642; /* Fondo principal Tuna */
-    color: #e1e7ec; /* Color del texto general fuera del contenedor */
-}
-
-h1, h2, h3 {
-    color: #8ea5bd; /* Títulos con el color Nepal */
-}
-
-a {
-    color: #879bb2; /* Enlaces con Bali Hai */
-    text-decoration: none;
-}
-
-a:hover {
-    color: #8ea5bd; /* Enlaces al pasar el cursor, Nepal */
-}
-
-nav {
-    background-color: #323642; /* Fondo del menú Tuna */
-    padding: 10px;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: #e1e7ec; /* Color de los enlaces del menú Mystic */
-    background-color: #879bb2; /* Fondo de los botones del menú Bali Hai */
-    padding: 10px 15px;
-    border-radius: 5px;
-}
-
-nav ul li a:hover {
-    background-color: #8ea5bd; /* Fondo Nepal al pasar el cursor */
-}
-
-footer {
-    text-align: center;
-    padding: 20px 0;
-    color: #e1e7ec; /* Color del texto del pie de página Mystic */
-    background-color: #323642; /* Fondo del pie de página Tuna */
-}
-
-main {
-    margin-top: 30px;
-}
-
-
-/* Estilos del formulario de contacto */
-form {
-    background-color: #e1e7ec; /* Fondo claro Mystic */
+    max-width: 900px;
+    margin: 0 auto;
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa; /* Fondo claro */
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra suave */
 }
 
-form label {
-    color: #323642; /* Color del texto del formulario */
+/* Estilo de la imagen */
+.container img {
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Estilo de los títulos */
+h1, h2, h3 {
+    color: #879bb2; /* Color Bali Hai */
+    text-align: center;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 
-form input, form textarea {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    margin-bottom: 15px;
-    border: 1px solid #879bb2; /* Bordes con color Bali Hai */
-    border-radius: 5px;
-    background-color: #f4f8fb; /* Fondo suave */
+/* Estilo del texto */
+p {
+    color: #323642; /* Color Tuna */
+    line-height: 1.6;
+    font-size: 1.1em;
+    text-align: justify;
 }
 
-form button {
-    background-color: #8ea5bd; /* Fondo del botón Nepal */
-    color: white;
+/* Sección de habilidades */
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    color: #323642; /* Texto más oscuro */
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+/* Estilo del botón de contacto */
+button {
+    background-color: #8ea5bd;
+    color: #fff;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
+    font-size: 1.1em;
     cursor: pointer;
+    margin-top: 20px;
 }
 
-form button:hover {
-    background-color: #879bb2; /* Fondo Bali Hai al pasar el cursor */
+button:hover {
+    background-color: #879bb2;
 }
