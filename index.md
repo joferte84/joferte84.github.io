@@ -11,9 +11,6 @@ title: Inicio
 
 </div>
 
-<head>
-  <link rel="stylesheet" href="/assets/css/styles.css">
-</head>
 
 <div class="button-container">
   <a href="index.html" class="button">Inicio</a>

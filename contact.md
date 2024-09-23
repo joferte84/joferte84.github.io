@@ -13,11 +13,8 @@ title: Contacto
 </div>
 
 
-<div align="center">
+[Inicio]({{ site.baseurl }}/index.html) | [Proyectos]({{ site.baseurl }}/projects.html) | [Contacto]({{ site.baseurl }}/contact.html)
 
-[Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html#contacto)
-
-</div>
 
 
 
