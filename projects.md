@@ -20,8 +20,14 @@ title: Proyectos
 - **[Demo_decide](https://github.com/joferte84/Demo_decide)**  
   Aplicación web que extrae automáticamente datos clave de facturas eléctricas PDF usando OpenAI, optimizando el análisis de grandes volúmenes de información.
 
+- **[clustering_forecasting](https://github.com/joferte84/clustering_forecasting)**
+  Proyecto de análisis y modelado predictivo en el que trabajamos el clustering y el análisis de series temporales.
+
+- **[Cuentacuentos](https://github.com/joferte84/Cuentacuentos)**
+  Aplicación web que utiliza la API de OpenAI para generar historias basadas en una variedad de temas y con un número específico de personajes.
+
 - **[EchoDocs](https://github.com/joferte84/EchoDocs)**  
-  Transforma documentos PDF en conversaciones interactivas usando la API de ChatGPT.
+  Transforma documentos PDF en conversaciones interactivas usando la API de ChatGPT. Tu ChatGPT con la información de tu PDF.
 
 - **[Predictor_precio_coche](https://github.com/joferte84/Predictor_precio_coche)**  
   Modelo predictivo de Machine Learning para predecir el valor de coches de segunda mano.
