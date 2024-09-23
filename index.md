@@ -10,8 +10,6 @@ title: Inicio
 
 <img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
 
-## Analista y Científico de Datos
-
 </div>
 
 ---
