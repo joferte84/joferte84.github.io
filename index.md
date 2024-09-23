@@ -35,8 +35,3 @@ Puedes ver mi currículum [aquí]({{ site.baseurl }}/assets/documents/JorgeFerna
 
 ---
 
-### [Proyectos Destacados]({{ site.baseurl }}/projects.html)
-
-Consulta mis proyectos destacados en la sección de [Proyectos]({{ site.baseurl }}/projects.html).
-
----
