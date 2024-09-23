@@ -10,7 +10,7 @@ title: Contacto
 
 <div class="container">
   <h2>¿Interesado en colaborar o discutir un proyecto?</h2>
-  </h2>¡Contáctame aquí!</h2>
+  <h2>¡Contáctame aquí!</h2>
   
   <form action="https://formspree.io/f/xvgpjdwv" method="POST">
     <label for="name">Nombre:</label><br>
