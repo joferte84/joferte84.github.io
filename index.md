@@ -32,7 +32,7 @@ Además, me apasiona la comunicación efectiva de resultados, lo que me ha permi
 
 ## Currículum
 
-Puedes ver mi currículum **[aquí]**({{ site.baseurl }}/assets/documents/JorgeFernandezTejedor.pdf).
+Puedes ver mi currículum **[aquí]({{ site.baseurl }}/assets/documents/JorgeFernandezTejedor.pdf)**.
 
 ---
 
