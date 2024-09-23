@@ -6,6 +6,7 @@ title: Inicio
 
 <div align="center">
   <h1>¡Hola! Soy Jorge Fernández</h1>
+  <h2>Un ávido científico de datos<h2>
   <img src="{{ '/assets/images/jorge_fernandez.jpg' | relative_url }}" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
 
