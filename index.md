@@ -3,9 +3,9 @@ layout: default
 title: Inicio
 ---
 
-<head>
+<!-- <head>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
+</head> -->
 
 <div align="center">
   <h1>¡Hola! Soy Jorge Fernández</h1>
