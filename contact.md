@@ -4,19 +4,14 @@ title: Contacto
 ---
 
 <div align="center">
-
-<h1>¡Hola! Soy Jorge Fernández</h1>
-
-
-<img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
-
+  <h1>Contacto</h1>
 </div>
 
-
-[Inicio]({{ site.baseurl }}/index.html) | [Proyectos]({{ site.baseurl }}/projects.html) | [Contacto]({{ site.baseurl }}/contact.html)
-
-
-
+<div class="button-container">
+  <a href="index.html" class="button">Inicio</a>
+  <a href="projects.html" class="button">Proyectos</a>
+  <a href="contact.html" class="button">Contacto</a>
+</div>
 
 ### Contacto
 

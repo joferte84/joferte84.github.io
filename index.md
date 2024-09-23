@@ -4,13 +4,9 @@ title: Inicio
 ---
 
 <div align="center">
-
-<h1>¡Hola! Soy Jorge Fernández</h1>
-
-<img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
-
+  <h1>¡Hola! Soy Jorge Fernández</h1>
+  <img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
-
 
 <div class="button-container">
   <a href="index.html" class="button">Inicio</a>
