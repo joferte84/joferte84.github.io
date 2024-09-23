@@ -1,7 +1,4 @@
 title: "Jorge Fernández Tejedor - Científico de Datos"
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
-baseurl: ""
-sass:
-  sass_dir: assets/css
+description: "Científico de Datos especializado en análisis estadístico y machine learning."
+baseurl: "" 
