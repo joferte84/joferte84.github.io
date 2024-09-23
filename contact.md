@@ -8,9 +8,9 @@ title: Contacto
 </div>
 
 <div class="button-container">
-  <a href="index.html" class="button">Inicio</a>
-  <a href="projects.html" class="button">Proyectos</a>
-  <a href="contact.html" class="button">Contacto</a>
+  <a href="{{ site.baseurl }}/index.html" class="button">Inicio</a>
+  <a href="{{ site.baseurl }}/projects.html" class="button">Proyectos</a>
+  <a href="{{ site.baseurl }}/contact.html" class="button">Contacto</a>
 </div>
 
 ### Contacto
@@ -21,4 +21,4 @@ title: Contacto
 
 ---
 
-[Volver al inicio](index.html)
+[Volver al inicio]({{ site.baseurl }}/index.html)

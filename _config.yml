@@ -1,5 +1,7 @@
 title: "Jorge Fernández Tejedor - Científico de Datos"
 theme: jekyll-theme-cayman
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 baseurl: ""
+sass:
+  sass_dir: assets/css

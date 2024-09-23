@@ -5,16 +5,16 @@ title: Inicio
 
 <div align="center">
   <h1>¡Hola! Soy Jorge Fernández</h1>
-  <img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
 
 <div class="button-container">
-  <a href="index.html" class="button">Inicio</a>
-  <a href="projects.html" class="button">Proyectos</a>
-  <a href="contact.html" class="button">Contacto</a>
+  <a href="{{ site.baseurl }}/index.html" class="button">Inicio</a>
+  <a href="{{ site.baseurl }}/projects.html" class="button">Proyectos</a>
+  <a href="{{ site.baseurl }}/contact.html" class="button">Contacto</a>
 </div>
 
-### Sobre mi.
+### Sobre mí
 
 Soy Jorge, un profesional en Data Science con experiencia en la identificación de patrones complejos y la transformación de datos en insights accionables. Mi habilidad técnica se complementa con una comunicación efectiva, lo que me permite ser un puente entre equipos técnicos y de negocio. Estoy especializado en análisis estadístico, machine learning y modelos predictivos, buscando siempre soluciones innovadoras que aporten valor estratégico.
 
@@ -30,7 +30,7 @@ Soy Jorge, un profesional en Data Science con experiencia en la identificación 
 
 ---
 
-### Curriculum
+### Currículum
 
 Puedes ver mi currículum [aquí]({{ site.baseurl }}/assets/documents/JorgeFernandezTejedor.pdf).
 
@@ -41,5 +41,3 @@ Puedes ver mi currículum [aquí]({{ site.baseurl }}/assets/documents/JorgeFerna
 Consulta mis proyectos destacados en la sección de [Proyectos]({{ site.baseurl }}/projects.html).
 
 ---
-
-
