@@ -17,6 +17,10 @@ title: Inicio
 [Inicio](/index.html) | [Proyectos](/projects.html) | [Contacto](#contacto)
 ---
 
+### Sobre mi.
+
+Soy Jorge, un profesional en Data Science con experiencia en la identificación de patrones complejos y la transformación de datos en insights accionables. Mi habilidad técnica se complementa con una comunicación efectiva, lo que me permite ser un puente entre equipos técnicos y de negocio. Estoy especializado en análisis estadístico, machine learning y modelos predictivos, buscando siempre soluciones innovadoras que aporten valor estratégico.
+
 ### Habilidades y Tecnologías
 
 - **Lenguajes de programación**: Python, R, SQL, NoSQL
@@ -41,8 +45,4 @@ Consulta mis proyectos destacados en la sección de [Proyectos]({{ site.baseurl 
 
 ---
 
-### Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/joferte)
-- [GitHub](https://github.com/joferte84)
-- Correo electrónico: [jorge@example.com](mailto:jorge_fernandez_84@yahoo.es)
