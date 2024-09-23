@@ -5,10 +5,10 @@ title: Inicio
 
 <div align="center">
 
-# ¡Hola! Soy Jorge Fernández Tejedor
+<h1>¡Hola! Soy Jorge Fernández</h1>
 
 
-![Foto de Jorge Fernández](/assets/images/jorge_fernandez.JPG)
+<img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
 
 ## Analista y Científico de Datos
 
