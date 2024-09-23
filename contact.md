@@ -3,19 +3,19 @@ layout: default
 title: Contacto
 ---
 
-<head>
+<!-- <head>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
+</head> -->
 
 <div align="center">
   <h1>Contacto</h1>
 </div>
 
-<div class="button-container">
+<!-- <div class="button-container">
   <a href="{{ site.baseurl }}/index.html" class="button">Inicio</a>
   <a href="{{ site.baseurl }}/projects.html" class="button">Proyectos</a>
   <a href="{{ site.baseurl }}/contact.html" class="button">Contacto</a>
-</div>
+</div> -->
 
 ### Contacto
 

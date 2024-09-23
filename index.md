@@ -12,11 +12,11 @@ title: Inicio
   <img src="{{ '/assets/images/jorge_fernandez.jpg' | relative_url }}" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
 
-<div class="button-container">
+<!-- <div class="button-container">
   <a href="{{ '/' | relative_url }}" class="button">Inicio</a>
   <a href="{{ '/projects.html' | relative_url }}" class="button">Proyectos</a>
   <a href="{{ '/contact.html' | relative_url }}" class="button">Contacto</a>
-</div>
+</div> -->
 
 ### Sobre mí
 
