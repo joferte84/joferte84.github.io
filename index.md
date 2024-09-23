@@ -3,6 +3,10 @@ layout: default
 title: Inicio
 ---
 
+<head>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
 <div align="center">
   <h1>¡Hola! Soy Jorge Fernández</h1>
   <img src="{{ '/assets/images/jorge_fernandez.jpg' | relative_url }}" alt="Foto de Jorge Fernández" width="300" height="auto">

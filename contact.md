@@ -3,6 +3,10 @@ layout: default
 title: Contacto
 ---
 
+<head>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
 <div align="center">
   <h1>Contacto</h1>
 </div>

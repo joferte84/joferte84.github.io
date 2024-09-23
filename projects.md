@@ -3,6 +3,10 @@ layout: default
 title: Proyectos
 ---
 
+<head>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
 <div align="center">
   <h1>Proyectos de Jorge Fernández</h1>
 </div>
