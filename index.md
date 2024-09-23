@@ -15,13 +15,11 @@ title: Inicio
   <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 
-
 <div class="button-container">
   <a href="index.html" class="button">Inicio</a>
   <a href="projects.html" class="button">Proyectos</a>
-  <a href="index.html#contacto" class="button">Contacto</a>
+  <a href="contact.html" class="button">Contacto</a>
 </div>
-
 
 ### Sobre mi.
 
