@@ -1,6 +1,14 @@
+---
+layout: default
+title: Contacto
+---
+
 <div align="center">
 
-# Contacto
+<h1>¡Hola! Soy Jorge Fernández</h1>
+
+
+<img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
 
 </div>
 

@@ -5,13 +5,16 @@ title: Proyectos
 
 <div align="center">
 
-# Proyectos Destacados
+<h1>¡Hola! Soy Jorge Fernández</h1>
+
+
+<img src="/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
 
 </div>
 
 ---
 
-[Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html#contacto)
+[Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html)
 
 ---
 

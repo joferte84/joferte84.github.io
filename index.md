@@ -14,7 +14,7 @@ title: Inicio
 
 ---
 
-[Inicio](/index.html) | [Proyectos](/projects.html) | [Contacto](#contacto)
+[Inicio](/index.html) | [Proyectos](/projects.html) | [Contacto](/contact.html)
 ---
 
 ### Sobre mi.
