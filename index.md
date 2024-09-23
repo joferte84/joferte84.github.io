@@ -3,24 +3,19 @@ layout: default
 title: Inicio
 ---
 
-<!-- <head>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head> -->
 
 <div align="center">
   <h1>¡Hola! Soy Jorge Fernández</h1>
   <img src="{{ '/assets/images/jorge_fernandez.jpg' | relative_url }}" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
 
-<!-- <div class="button-container">
-  <a href="{{ '/' | relative_url }}" class="button">Inicio</a>
-  <a href="{{ '/projects.html' | relative_url }}" class="button">Proyectos</a>
-  <a href="{{ '/contact.html' | relative_url }}" class="button">Contacto</a>
-</div> -->
-
 # Sobre mí
 
-Soy Jorge, un profesional en Data Science con experiencia en la identificación de patrones complejos y la transformación de datos en insights accionables. Mi habilidad técnica se complementa con una comunicación efectiva, lo que me permite ser un puente entre equipos técnicos y de negocio. Estoy especializado en análisis estadístico, machine learning y modelos predictivos, buscando siempre soluciones innovadoras que aporten valor estratégico.
+¡Hola! Soy Jorge, un apasionado profesional en Data Science, con un enfoque técnico y analítico que me permite transformar datos complejos en insights estratégicos para la toma de decisiones y ejecutar soluciones con inteligencia artifical ante problemas con la data. Mi formación y experiencia me han llevado a desarrollar habilidades sólidas en análisis estadístico, modelado predictivo y machine learning, siempre buscando resolver problemas empresariales de manera innovadora.
+
+Recientemente, he reorientado mi carrera hacia el sector tecnológico, especializándome como Científico de Datos. Manejo herramientas clave como Python, R, SQL, NoSQL, y Power BI, lo que me permite enfrentar retos técnicos y aportar valor en equipos multidisciplinarios.
+
+Me considero un profesional curioso y comprometido con el aprendizaje continuo. Mi habilidad para comunicar resultados de manera clara y efectiva me convierte en un puente ideal entre los equipos técnicos y las áreas de negocio. Estoy en la búsqueda de nuevas oportunidades donde pueda aplicar mis conocimientos y seguir creciendo como profesional en el mundo de la ciencia de datos.
 
 # Habilidades y Tecnologías
 
