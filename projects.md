@@ -12,14 +12,14 @@ title: Proyectos
 
 </div>
 
----
 
-<div style="text-align: center;">
-  [Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html#contacto)
+<div align="center">
+
+[Inicio](index.html) | [Proyectos](projects.html) | [Contacto](index.html#contacto)
+
 </div>
 
 
----
 
 ### Proyectos
 
