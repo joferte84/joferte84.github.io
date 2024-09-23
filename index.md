@@ -11,11 +11,11 @@ title: Inicio
 
 # Sobre mí
 
-¡Hola! Soy Jorge, un apasionado profesional en Data Science, con un enfoque técnico y analítico que me permite transformar datos complejos en insights estratégicos para la toma de decisiones y ejecutar soluciones con inteligencia artifical ante problemas con la data. Mi formación y experiencia me han llevado a desarrollar habilidades sólidas en análisis estadístico, modelado predictivo y machine learning, siempre buscando resolver problemas empresariales de manera innovadora.
+¡Hola! Soy Jorge, un profesional apasionado por la Data Science y la inteligencia artificial, especializado en transformar datos complejos en soluciones innovadoras que impulsan la toma de decisiones estratégicas. Mi enfoque se centra en el análisis profundo de datos y la implementación de modelos predictivos y de machine learning, siempre con la mirada puesta en la resolución de problemas empresariales.
 
-Recientemente, he reorientado mi carrera hacia el sector tecnológico, especializándome como Científico de Datos. Manejo herramientas clave como Python, R, SQL, NoSQL, y Power BI, lo que me permite enfrentar retos técnicos y aportar valor en equipos multidisciplinarios.
+Mi carrera ha dado un giro hacia el sector tecnológico, donde he perfeccionado mis habilidades en el manejo de herramientas avanzadas como Python, R, SQL, NoSQL, y Power BI. A lo largo de este camino, he desarrollado una sólida experiencia en la creación de aplicaciones basadas en machine learning, el análisis estadístico, y la construcción de infraestructuras robustas para la gestión de grandes volúmenes de datos.
 
-Me considero un profesional curioso y comprometido con el aprendizaje continuo. Mi habilidad para comunicar resultados de manera clara y efectiva me convierte en un puente ideal entre los equipos técnicos y las áreas de negocio. Estoy en la búsqueda de nuevas oportunidades donde pueda aplicar mis conocimientos y seguir creciendo como profesional en el mundo de la ciencia de datos.
+Además, me apasiona la comunicación efectiva de resultados, lo que me ha permitido convertirme en un nexo entre los equipos técnicos y las áreas de negocio, facilitando decisiones fundamentadas en datos. Estoy siempre en busca de nuevos retos que me permitan seguir creciendo y aplicar mis conocimientos de forma creativa en proyectos desafiantes.
 
 # Habilidades y Tecnologías
 
