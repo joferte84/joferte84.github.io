@@ -66,3 +66,40 @@ footer {
 main {
     margin-top: 30px;
 }
+
+
+/* Estilos del formulario de contacto */
+form {
+    background-color: #e1e7ec; /* Fondo claro Mystic */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    color: #323642; /* Color del texto del formulario */
+    font-weight: bold;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #879bb2; /* Bordes con color Bali Hai */
+    border-radius: 5px;
+    background-color: #f4f8fb; /* Fondo suave */
+}
+
+form button {
+    background-color: #8ea5bd; /* Fondo del botón Nepal */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #879bb2; /* Fondo Bali Hai al pasar el cursor */
+}

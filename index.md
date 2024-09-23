@@ -21,7 +21,7 @@ Me considero un profesional curioso y comprometido con el aprendizaje continuo. 
 
 - **Lenguajes de programación**: Python, R, SQL, NoSQL
 - **Herramientas de análisis de datos**: Visual Studio Code, RStudio, Power BI, MongoDB, MySQL Workbench
-- **Machine Learning y modelado predictivo**: Desarrollo y optimización de modelos, incluyendo CNNs para visión por computadora.
+- **Machine Learning y modelado predictivo**: Tensorflow, Pytorch, Scikit-learn, Keras
 - **Desarrollo de aplicaciones web**: Streamlit, Flask, Django
 - **Integración con APIs**: OpenAI API, Hugging Face, Fast API
 - **Gestión de bases de datos**: MongoDB, CouchDB, MySQL Workbench, Redis, Apache Spark
