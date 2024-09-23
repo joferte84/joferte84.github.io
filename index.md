@@ -5,13 +5,13 @@ title: Inicio
 
 <div align="center">
   <h1>¡Hola! Soy Jorge Fernández</h1>
-  <img src="{{ site.baseurl }}/assets/images/jorge_fernandez.jpg" alt="Foto de Jorge Fernández" width="300" height="auto">
+  <img src="{{ '/assets/images/jorge_fernandez.jpg' | relative_url }}" alt="Foto de Jorge Fernández" width="300" height="auto">
 </div>
 
 <div class="button-container">
-  <a href="{{ site.baseurl }}/index.html" class="button">Inicio</a>
-  <a href="{{ site.baseurl }}/projects.html" class="button">Proyectos</a>
-  <a href="{{ site.baseurl }}/contact.html" class="button">Contacto</a>
+  <a href="{{ '/' | relative_url }}" class="button">Inicio</a>
+  <a href="{{ '/projects.html' | relative_url }}" class="button">Proyectos</a>
+  <a href="{{ '/contact.html' | relative_url }}" class="button">Contacto</a>
 </div>
 
 ### Sobre mí
